@@ -1,0 +1,10 @@
+wb_p2.5_c2e/00/p2.5_c2e_0054.v01000_word 10 17 return-v reciprocate-110.1
+wb_sel/17/sel_1701.v02002_word 0 1 return-v reciprocate-110.1
+wb_sel/16/sel_1683.v02002_word 0 1 return-v reciprocate-110.1
+wb_eng/00/eng_0000.v01000_word 184 3 return-v reciprocate-110.1
+mz_sinorama/10/ectb_1031.v00000_word 68 20 return-v reciprocate-110.1
+bc_cnn/00/cnn_0000.v00000_word 199 13 return-v reciprocate-110.1
+nw_wsj/13/wsj_1376.v00000_word 49 16 return-v reciprocate-110.1
+nw_wsj/13/wsj_1376.v00000_word 51 7 return-v reciprocate-110.1
+nw_wsj/14/wsj_1447.v00000_word 19 10 return-v reciprocate-110.1
+nw_wsj/14/wsj_1470.v00000_word 22 5 return-v reciprocate-110.1

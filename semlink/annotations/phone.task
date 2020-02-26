@@ -1,0 +1,7 @@
+word/wsj_0413.parse 34 27 phone-v instr_communication-37.4.1
+word/wsj_1376.parse 56 4 phone-v initiate_communication-37.4.2-1
+word/wsj_1572.parse 37 1 phone-v initiate_communication-37.4.2-1
+word/wsj_2031.parse 15 30 phone-v instr_communication-37.4.1
+word/wsj_2113.mrg 41 12 phone-v initiate_communication-37.4.2-1
+word/wsj_2113.mrg 44 3 phone-v initiate_communication-37.4.2-1
+word/wsj_2413.parse 33 4 phone-v initiate_communication-37.4.2-1

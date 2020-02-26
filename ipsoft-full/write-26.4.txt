@@ -1,0 +1,105 @@
+doc#473 	If its value is images/ then a fileref value of caution.png is < written > to the HTML file as src="images/caution.png . But sure to include the trailing slash. 
+doc#1643 	The first xsltproc... line runs xsltproc using the script at xslt/latest.xsl (relative to the shell script) against the file archive.xml , < writing > the result to the file latest.html . That’s it.
+doc#2031 	To avoid the contention of having each SpamAssassin process attempting to gain write access to the Bayes DB, the token timestamps are < written > to a 'journal' file which will later (either automatically or via sa-learn --sync ) be used to synchronize the Bayes DB. 
+doc#2781 	If the file exceeds this size, no more information will be < written > to it.
+doc#3958 	I did not need that, and I now backup my Linux partitions with something like: tar -cvljf $ArchiveFile --exclude '/tmp' -V "$Label" $Directories After that I < write > the single big archive file to CD, using the multi-CD capabilities of cdbackup: cat $ArchiveFile | \ cdbackup -d $CDDevice -a "$CDLabel" -m -l $CDSize \ -s $CDSpeed -- -v -m is the multi-CD flag.
+doc#5513 	The script reader checks the selection from an Open dialog to make sure the file exists, and checks the selection from a Save dialog to make sure the file doesn't already exist (to protect against accidentally overwriting an existing file ) and that it's possible to create and < write > to the file. 
+doc#5658 	It allows applications to connect to the Internet, and to natively read and write data on the Internet. “The WebDAV protocol is an extension to Hypertext Transfer Protocol (HTTP) that allows data to be < written > to HTTP targets... 
+doc#5766 	Features: * Very easy-to-use interface * Divide files of any file size and any file type * Default (floppy disk, CD, DVD, ... or user defined output file sizes * Merge previously divided files even with the unregistered version of this program * Program can also read from and < write > to SD cards, USB sticks, external drives etc. * Program can be installed on USB sticks, floppy disks or nearly all other re-writable media * Very low system resources required. 
+doc#6059 	 The Meterpreter packet sniffer uses the MicroOLAP Packet Sniffer SDK and can sniff the packets from the victim machine without ever having to install any drivers or < write > to the file system.
+doc#6322 	For example, a part unloaded to persistent storage is typically < written > to a hard disk.
+doc#7541 	The simple fact of leaving his girlfriend's email address on a pc means he < wrote > some data to a harddrive he had no right be on. 
+doc#7893 	 If data cannot be < written > to the forensics logfile, the child process exits immediately and may dump core.
+doc#9345 	If file is a string, then the method will open a file object with that name, < write > to it then close it.
+doc#10330 	You can have the default callback < write > the data to a different file handle by passing a 'FILE *' to a file opened for writing with the CURLOPT_< write >DATA option.
+doc#10330 	< write > them to a protected file and use the -K option to avoid this.
+doc#11550 	There is also a new section on 0x23, FAT_FILE_SYSTEM, a problem with many causes but which, primarily, means that some problem occurred within a read or < write > to a FAT16 or FAT32 file system drive . 
+doc#13438 	Applications can read the file but cannot < write > to it or delete it. 
+doc#14328 	 The Temp directory may have too many files and it can't < write > another file to that location.
+doc#16251 	 In my opinion it is more important to purchase a multi GB USB drive that has fast read and < write > speed as you will save a lot of time in copying files.
+doc#17623 	 The Java Security Manager does not allow applets to read or < write > to your local drive .
+doc#18401 	The easiest way to protect against these is to ensure that all javascript recieved by the XMLHTTPRequest object is returned with a suitable mime-type - application/json That will mean even when you make a mistake and < write > un-encoded untrusted data to the document, it won’t allow people to attack your site. 
+doc#19340 	The email that is the target of analysis may not contain the necessary information, as a result of its status within the email lifecycle (e.g. an email in a ‘sent items ‘ folder will not contain provenance information capable of addressing 2e or 2f) or may have been manually or automatically altered to remove ‘superfluous ‘ details (e.g. Microsoft Outlook often removes provenance necessary to address 2e, 2f, or 2g when < writing > data to a text file
+doc#19469 	When RAM runs, it < writes > one small file to its own directory, and when you save an item it will write another small file named ramitems.txt to serve as a scratchpad.
+doc#20945 	The C-64 COULD read sequential file data < written > to cassette by the PET.
+doc#20945 	 Consequently, I wrote a program for both the PET which extracted the ROM data and < wrote > it to cassette and a further program for the C-64 which read the data from cassette and transferred it to disk. 
+doc#21752 	Radrelay then waits for addi- tional data to be < written > to the file, and starts over again. 
+doc#21966 	New objects are < written > into the data store from where agents and viewers read them.
+doc#22485 	VISITview Lesson Builder (ver 2.12) ----------------------------------- * Fixed problem when creating a new lesson -- if the "tearoff" value was not changed, nothing got < written > to the HTML file (even though the dialog showed "always", it was ignored). * Changed timing for pop up of the 'torn-off controls' panel so that in "visitlocal" mode it has more of a chance of being on top.
+doc#24527 	The program reads existing DXF files and < writes > the result into a new DXF file . 
+doc#26678 	With the BR-PX68U2/BK-EU by Buffalo, you can store, edit, watch and < write > HD content to an optical drive . 
+doc#28569 	 Important: Note that when you open a file stored on a TrueCrypt volume (or when you < write > /copy a file to/from the TrueCrypt volume) you will not be asked to enter the password again. 
+doc#28723 	 One of the nice things about HBase is the REST interface that can read and < write > data .
+doc#29370 	The second argument is the name of the output data directory (where reduced images are to be < written > ).
+doc#30045 	Using the RAID 10 the data that is written on the hard drives used as primary drivers is automatically < written > on the back-up drives.
+doc#30045 	Using the RAID 10 the data that is < written > on the hard drives used as primary drivers is automatically written on the back-up drives.
+doc#31392 	If the recovery files are indirectly < written > to the disk, we’re in luck. 
+doc#32151 	 provide a consistent file system image across servers in a cluster, allowing the servers to simultaneously read and < write > to a single shared file system. 
+doc#33708 	 < writing > a 2 GB file took 381 and 384 seconds in two attempts, averaging 382.5.
+doc#33708 	 To test USB read speed I used the same basic approach, but this case requires a little more care: If the operating system has ever read or < written > a file , there is a chance that some or all of it will be cached in RAM. 
+doc#34108 	 The dump option will < write > the image to the specified file in JPEG format using the quality value of 50 (which provides moderate compression and minimal visual artifacts). 
+doc#34493 	Previously it was < written > to stdout. 20070831: Added dot.mkshrc file to support the recent change to mksh from OpenBSD's ksh derived from pdksh. 
+doc#35066 	In either case, the keys are < written > to the screen, to disk, and to a printer. 
+doc#36665 	In this case nothing can be assumed about the consistency for the data < written > to this file descriptor.
+doc#37759 	All data in computer storage as well as data < written > to a removable storage device will be encrypted. 
+doc#37806 	Unlike CloseKey() , the FlushKey() method returns only when all the data has been < written > to the registry.
+doc#39481 	 CDuke is a powerful multifunction utility that helps you not only < write > data or photos on CD and DVD but also create audio disks
+doc#39481 	Using it, you can < write > your data to CD as easily as you do it to floppy disk. 
+doc#40262 	They expire when the session ends and are not < written > onto your computer's hard drive.
+doc#41746 	Now when you record audio it will be < writing > to one drive while your system drive is free to run Pro Tools. 
+doc#43602 	You do NOT need to get another DVD drive even if your machine can't < write > to dual-layer Discs just to install or use Leopard. 
+doc#44042 	I get the same results reading from and < writing > to a flash drive, so I don't think it's an I/O bottleneck.
+doc#44285 	 Tshark is an open-source command line tool for dumping and analyzing network traffic It lets you capture packet data from a live network, or read packets from a previously saved capture file, either printing a decoded form of those packets to the standard output or < writing > the packets to a file .
+doc#48763 	Components supply typical OS features such as network communications (wired and wireless), reading and < writing > data to a file system, synchronizing data with other devices, and components that keep the OS updated with the latest technologies from Microsoft such as Silverlight for Windows Embedded.
+doc#49852 	 The great thing is that < writes > to the virtual file system using an application will automatically tag files. 
+doc#50692 	 Optional archive management - Recordings are automatically < written > to a DVD +RW drive 
+doc#55109 	 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 3. if you're using fseek() to < write > data to a file, remember to open the file in "r+" mode, example:
+doc#57756 	Cookies are data files that are < written > onto your computer by a web site.
+doc#58113 	It < writes > NMEA output into a file with the date and time in the name, and ending in .log.
+doc#60142 	Some Viruses can attack your BIOS and can also damage your hard drive clusters, meaning like damage the data present on that region of the hard disk, meaning the data gets irrecoverable, and further more, < writing > data to that portion of the harddisk becomes impossible, even though that section of the hdd is clearly contributing to the over all space statistics of your harddisk.
+doc#62067 	 As soon as the user validated the order, the client software < writes > on the disk a file that is merely a small Tcl script. 
+doc#62067 	This one < writes > then on the hard disk two files:
+doc#63246 	The route commands would then be < written > to a separate file and read in using the bash source /etc/ipip.routes command (assuming you called the file with the routing commands /etc/ipip.routes) as illustrated. 
+doc#63249 	The PC receives the bytes (which are, by the way, sent as LSB first – this is the UART protocol) and < writes > them to a file . 
+doc#63694 	 w = write = can < write > to the file or directory, if the file is a directory then can create and delete files in that directory
+doc#67623 	 FileMaker 11 (all versions) also has a documented issue with generating malformed XML code which is < written > to the DDR XML file and also placed onto the clipboard. 
+doc#67623 	Therefore it is necessary to run FmPro Migrator on Windows when converting to Access, as the data needs to be < written > into the Access .mdb database file. 
+doc#67961 	When in this mode, the program < writes > runtime log messages to the log file "SpeedswitchXP.log". 
+doc#68253 	 When running as a service, Summary will < write > status messages to a log file in the data folder.
+doc#69030 	The main downside when downloading personal computer games is that the larger the file measurement, the lengthier it will just take your pc to < write > the information on its hard disk generate.
+doc#71561 	 The forecast data are < written > into files known as fieldsfiles. 
+doc#72348 	Right now, the speed at which data is < written > to disk by a checkpoint is impacted by three values the user can specify. 
+doc#76319 	That means that attackers can push invalid configuration options to DBUS, which are then < written > to a WICD wireless settings configuration file .
+doc#77806 	In template model 8, each iteration, a summary of the agent states must be computed and < written > to an output file .
+doc#77806 	 < write > model summary to a file
+doc#78404 	First of all the CSS support for UseMod must be set on: the location of the style sheet file must be < written > to the $StyleSheet configuration variable. 
+doc#81308 	In other application environments it’s normal to be able to display an image or load data from a web service or web server and display it without having it < written > to file .
+doc#81308 	Why should I have to use some workaround to try to do something as simple as “load this SWF file but don’t < write > it to the hard drive”??
+doc#83140 	 I’m certain this is a trivial error on my part, but my custom document class will not < write > the file to the local filesystem. 
+doc#83821 	You can also inherit from a shared configuration afterwards, by setting the `[inherit] file` option in the `conf/trac.ini` file in your newly created environment, but the advantage of specifying the inherited configuration file at environment creation time is that only the options ''not'' already specified in the global configuration file will be < written > in the created environment's `conf/trac.ini` file.
+doc#85015 	Drag some data to your CD writer drive within Windows, then insert a blank CD and attempt to < write > the data to the CD. 
+doc#85015 	On the other hand, if Windows is unable to successfully < write > the data to the CD then it seems the problem is related to the Windows CD writing functionality, rather than Windows Media Player specifically.
+doc#95731 	After Prognosys finishes a run with the Illumina Genome Analyzer II, it < writes > the data to tapes. 
+doc#96175 	In case a master transmitter mode transfer is going to send more than one data packet, all following packets will be considered data bytes to < write > at the indicated address. 
+doc#100873 	 "Cookies" are small encrypted data files (containing references to user ID information supplied by the user and stored on our secure server) that may < write > to your hard drive once you have accessed a site. 
+doc#105240 	 Since Windows is reading and < writing > to your hard disk almost constantly, any improvement in caching can produce a noticeable speed increase in the whole system. 
+doc#110134 	On the final window you can select whether < writing > data to that drive is allowed, following which, this mount point is created. 
+doc#111922 	Carriage returns \n must be added manually at the desired points; eLyXer will just merge all lines and < write > them to file .
+doc#111922 	 The most complex kind of Basket is the SplittingBasket : it < writes > each document part to a separate file , choosing what parts to split depending on the configuration passed in the --splitpart option. 
+doc#112436 	The PID of this process is < written > to the file httpd.pid in the logs directory (unless configured otherwise). 
+doc#114061 	We'd like to support < writing > IPTC data into the files as they are being transferred, but we've simply seen too many incompatibilities with IPTC. 
+doc#119216 	It would however be very simple to chang the script to actually < write > to a file directly.
+doc#120872 	It uses approximately no CPU, since it spends almost all of it's time waiting for input from the log, waiting for whois, or waiting for buffers to be < written > in the output file .
+doc#126591 	In this case php denied to < write > to the filesystem. 
+doc#130382 	 To do the conversion, we’ll use an AVAssetReader to read from the original song file , and an AVAssetwriter to perform the conversion and < write > to a new file in our application’s Documents directory.
+doc#130382 	With the writer, you can supply samples that you receive by transcoding (as I’ve done here), by capture, or even samples you generate programmatically (such as a screen recorder class that just grabs the screen as often as possible and < writes > it to a movie file ).
+doc#135367 	It can also extract blob data and < write > it to a file. 
+doc#135494 	Hard drives can develop bad clusters over time, and those utilities can help retrieve corrupt data , and also prevent data from ever being < written > to those bad sectors again. 
+doc#138312 	It may then make some modification and pass the data to the next filter (using the pass_brigade() call), which in turn applies its modifications and sends the bucket brigade to the next filter, etc. This continues all the way down to the last filter (called core ) which < writes > the data to the network via the socket the client is listening to.
+doc#139320 	 From reading around, it appears that data is always first < written > to the hard drive and then the most frequently requested page file pages are duplicated to the SD card. 
+doc#139320 	Now if it < wrote > straight to the SD and later mirrored to the drive , there would be potentially be a speed up I guess. 
+doc#141321 	In VBR mode, it represents the overall average for the length of the movie. *'''Logfile:''' When encoding a first pass, the video encoder will run through the movie and < write > statistics about it to a log file for use in subsequent passes. 
+doc#141456 	You can repeat this up to 100 times, which should be sufficient for most situations ;) Rather than having to type this each time, it's more sensible to < write > it to an rc file . 
+doc#141456 	Select likely candidates for wildcarding, < writing > the resulting suppressions to another file e.g. wxGTK-2-8-11.supp. # Rerun valgrind using that suppression file: '''valgrind --leak-check=full --show-reachable=yes --error-limit=no --suppressions=./wxGTK-2.8.11.supp --gen-suppressions=all --log-file=minimalraw.log ./minimal''' # Goto 5. # Once there aren't too many errors, or none that you dare wildcard, append the remaining unaltered suppressions to wxGTK-2-8-11.supp. # Move wxGTK-2-8- 
+doc#142847 	structure file stored on auxiliary memory or transported on a communications means, said Standardized order being different from a different order used on at least one of the different computers; Converting in each of the different computers binary data read from an auxiliary data storage or communications means from the Standardized order to the Natural Order of the respective host computer after said binary data are read from said auxiliary data storage or communications means and before said binary data are used by the respective host computer; and Converting in each of the different computers binary data < written > into auxiliary data storage or communications means from the Natural Order of the respective host computer to the Standardized order prior to said writing. 2. 
+doc#143623 	This is probably due to changed data being < written > to shared main memory, even though the other CPU may not be using it. 

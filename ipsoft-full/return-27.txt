@@ -1,0 +1,132 @@
+﻿doc#382	It now < returns > the  result  handle (in order to allow multiple queries on the same connection), so the numrows command was added. set num_rows_returned [sql numrows $conn $res_handle] 
+doc#574	It is however not equivalent to doing nothing, since the < returned >  string  always uses the proper separators for the operating system. 
+doc#574	if Expanded is specified, the Path of the < returned >  value  (if any) will always be an absolute path; i.e. the path will be expanded with the current directory if the value specified in the input string is a relative path. 
+doc#574	Note that for properties that return an enumeration, the type Enum_Values gathers all possible values, and subtypes correspond to each possible query; therefore Property (File_Kind, Name) will < return > a  value  in the subtype File_Kind_Enums , etc. 
+doc#574	The function To_String < returns > a  string  representation of the list. 
+doc#865	The new trick is called Google Squared and it < returns > search  results  in a spreadsheet format, breaking down the various facets of the things you are searching for. 
+doc#865	Based on the demo, I expect W|A will < return >  results  of a higher calibre, but will miss out on a lot of queries because the knowledge is just missing. 
+doc#865	Google Squared appears to be doing something fuzzier and will < return >  results  that might be really bad. 
+doc#934	Iris < return > the  value  0.319 (the difference is not significant here comparatively to the entropy method). 
+doc#1698	Select an option here to specify how you would like your search query to be treated. 'Any words' will return the most numerous but possibly least relevant results, while 'Complete phrase' will < return > only  results  that contain exactly what you are searching for. 
+doc#2912	POSIX does not require an implementation of sem_getvalue to < return > a  value  in sval that is less than 0, but if it does then it's absolute value must represent the number of waiters. 
+doc#3771	the tcl function, get-subject-rehearsals, < returns > a  value  that would ideally be interpreted as an integer. 
+doc#4011	CGI program can take a request for information from a database, which the user submits with an HTML form, query the database, perform any required processing, and < return > the  results  to a web page or a plain text document.The user visits our web site, and, as necessary, the CGI program runs on our machine. 
+doc#4121	Leaving the hotel name blank will < return >  results  for all properties in that city  depending on the location, this list may be rather long. 
+doc#4319	By default, < returns > a  string  that is the responseText field of the XMLHttpRequest object. 
+doc#4898	Note that this method does not < return > the  values  of properties. 
+doc#4898	When the names element is set to nil , this request implies that the Producer must < return >  values  for all properties of this portlet. 
+doc#4898	If supported, the Producer will < return > all  strings  in the given locales. 
+doc#4898	<Return > the  value  as a LocalizedString , with a string value and a locale. 
+doc#4898	<Return > the  value  as a LocalizedString with a string value, an xml:lang attribute for the locale of the string value, and a resourceName attribute. 
+doc#4898	The purpose of the resourceName attribute is to < return >  string  values in multiple locales with getServiceDescriptionResponse , getPortletDescriptionResponse and getPortletPropertyDescriptionResponse messages. 
+doc#5513	For example, if the user presses the A key with no Shift key or Caps Lock in effect, the < returned >  string  is simply 'a' . If the user holds down the Shift key and presses B, the returned string is 'B' . 
+doc#5513	For example, if the user presses the A key with no Shift key or Caps Lock in effect, the returned string is simply 'a' . If the user holds down the Shift key and presses B, the < returned >  string  is 'B' . 
+doc#5513	For "special" keys - cursor arrows, "F" keys, and the like - the < returned >  string  is a portable name for the key. 
+doc#5513	InEvtNoTimeout - this isn't an event, but rather an error code: it indicates that the platform doesn't support the timeout feature of inputEvent() . When inputEvent() is called with a timeout value on a platform that doesn't support the timeout feature, the function simply < returns > this  result  code immediately. 
+doc#5513	Waits for the user to press a key, then < returns > a  string  with the key the user pressed. 
+doc#5513	This function < returns > a  string  indicating which key the user pressed. 
+doc#5513	Returns the text of the input as a string. (The < returned >  string  will not contain a newline character.) 
+doc#5513	The inputLineTimeout() function works a lot like the ordinary inputLine() function, which reads a line of text from the keyboard and < returns > a  string  containing the text, but inputLineTimeout() has the additional feature of letting you specify a time limit, called a "timeout." 
+doc#20249	Ticket to Work and Work Incentives provide you a safety net that can help you achieve financial self-sufficiency with the assurance that you may < return > to  benefits  if you find you are unable to continue working due to your disability. 
+doc#26650	And, where names do have to appear online, we recommend that tribunals use web robot exclusion protocols, so that a routine Google-style search by name won’t < return > the  decision  . 
+doc#33374	Obviously powerful interests are responsible for putting federal judges in place; these interests often have agendas independent of unbiased due process and justice, and no doubt upon appointment, judges are implicitly expected to < return >  decisions  in complement to those interests. 
+doc#36003	It is up to the jury to decide how long it will take to complete their deliberations and < return > a  verdict  , so long as they are progressing toward a verdict. 
+doc#37410	The jury in the case of James Kehoe < returned > a  verdict  last evening finding him guilty of embezzling $44 making the crime a misdemeanor instead of a felony and saves Mr. Kehoe from a trip to Yuma. 
+doc#46199	The cooperative also is required to < return > any  profits  to members on a pre-specified schedule determined by the board of directors. 
+doc#46199	Depending on operating cash requirements, the timeline for < returning >  profits  could be immediately. 
+doc#49407	It does have potential value in that it might be sold, and it has future value in that it might < return >  profits  in the future, but it has no tangible monetized value in the present. 
+doc#58027	On April 19, 1977, after 11 hours of deliberation, the jury < returned > a  verdict  of guilty. 
+doc#62112	For businesses, we need to reduce their burden to encourage them to invest and < return > the  profits  made offshore to the U.S. Instead of another stimulus, removing the capital gains tax and cutting the corporate tax rates would spur economic growth. 
+doc#66579	The Communities and Local Government Secretary Eric Pickles has written to Council leaders and planning officers highlighting the government's commitment to < return >  decision  making powers on housing and planning to local councils. 
+doc#74979	We attempt to < return >  decisions  in no longer than a month and to publish within three months. 
+doc#77423	Raye Dawn Smith was tried on charges of enabling child abuse, and a jury < returned > a  verdict  of guilty against her on 18 July 2007. 
+doc#83564	Every business enterprise aims at cutting down their expenses and save financial resources which will < return >  profits  in the year end. 
+doc#88758	Expanding the production and deployment of the Gorlov Helical Turbine would < return >  benefits  in less than a year. 
+doc#97623	The case was tried in Prince William Circuit Court and the jury < returned > a  verdict  of $213,000. [12-T-015] Type of ... 
+doc#104517	The jury < returned > a  verdict  in the amount of $22,052.79. 
+doc#104807	Give them brand consistency and they will continually < return > to  benefit  from its value. 
+doc#111933	A website that is conspicuously built is sure to < return >  benefits  , directly or indirectly, to its owner. 
+doc#112006	Let’s see if the recent titles they have purchased with a smaller workforce can < return > big  dividends  for them. 
+doc#115879	Penny stocks could < return > huge  profits  . 
+doc#121715	You have to limit your pay-per-click bid not let it over your about to < return >  profit  for each sale. 
+doc#134071	If you ended up to conduct an on the web research and basically use the expression, 'shopping cart software,' the < returned >  benefits  would be ample to make you sense unwell to your abdomen. 
+doc#134286	The jury < returned > a  verdict  in favor of Blossman. 
+doc#134286	After deliberating for approximately thirty-six minutes, the jury < returned > a  verdict  in favor of the defendant, Blossman. 
+doc#147709	While the driver's medical bills were only $2,445, the jury < returned > a  verdict  over 40 times that amount. 
+doc#160820	Peruvian Andes Adventures are one of only a few agencies in Huaraz who have made a serious attempt to implement an Environmental Care Code with trek staff and as far as we are aware may be the only agency who has a Community Project Program or who < returns > some  profit  from their business back to the local community. 
+doc#162505	Visit KyWebHosting.com or call us at 606-433-4262 to discuss how this economical investment can < return > big  dividends  . 
+doc#174637	Trials are held in front of judges, in the presence of a jury and the jury < returns > a  verdict  in favor of a party. 
+doc#175129	The Inquirer of Sudden Deaths, Maminiya Korala, G B D Kumarasinghe who held the inquest at the scene < returned > a  verdict  of accidental death caused by a wild elephant attack. 
+doc#180959	When business owners or managers fail to track and measure the new business generated from the advertising, then the business owners and managers will fail to see that advertising is an expense that can < return > huge  dividends  to the business. 
+doc#186313	While the Internet is a dynamic, highly-effective marketing medium, its ability to < return > a  profit  has, for the most part, been unproven. 
+doc#204828	They went to trial and the jury < returned > a  verdict  awarding no damages to either party. 
+doc#206973	The jury < returned > a  verdict  for $23,500.00 thereby exceeding the magic 25% threshold with respect to the employer but not with respect to the physician. 
+doc#207407	If you're thinking about saving money or making money in the future, or both, then you certainly have to consider making an investment in different stocks, mutual funds, and the like to build a well rounded portfolio that will give you < returns > that  benefit  you as well as your investment. 
+doc#218616	The jury < returned > a  verdict  finding defendant guilty of first-degree murder. 
+doc#219358	In < returning > the  verdict  , the foreman of the jury requested that the court show mercy towards the accused on the grounds that she had suffered 'a hell of a life'. 
+doc#228575	To this end the site performs an important social function but is also run very much as a business with the intention of < returning > a  profit  . 
+doc#243462	If your business levels < return > your  benefits  will be resumed. 
+doc#244772	In 1933 at the height of the depression the hotel still < returned > a  dividend  for stockholders and was one of only 13 hotels in the American hotels corporation chain to show a profit in 1930 the first year of the depression according to Eileen Warburton in her book, in living memory. 
+doc#262595	The jury took about an hour to < return > the  verdict  against Bruno, rejecting the defense's contention that authorities had arrested the wrong man. 
+doc#266583	An Alexandria federal jury < returned > a  verdict  on Oct. 27, 2011 of $96,400,000 in favor of Honua Investment Management, Inc. and its bondholders who were defrauded by Man Ki Kim, a McLean businessman. 
+doc#272697	This edition is therefore dedicated to the twelve jurors, three women and nine men, who < returned > a  verdict  of 'Not Guilty' and thus made D. H. Lawrence's last novel available for the first time to the public in the United Kingdom." 
+doc#276102	Defendants have also assigned as error the giving of plaintiff's requested Instruction No. 10, which permitted the jury to < return > a  verdict  for plaintiff if it believed from a preponderance of the evidence that defendant Hastings was operating the truck of the Butane Corporation in one or more of the negligent manners alleged in the complaint. 
+doc#277858	Jury < returned > a  verdict  in favor of client after a seven-week trial. 
+doc#283501	The idea is to spend money on education as an investment – an investment that < returns > a  profit  once the diploma is handed out. 
+doc#283737	If the answer was yes, then there stands a chance that the $100 that the web site owner paid for that traffic could < return > a  profit  after all. 
+doc#298571	The Web service evaluates the policy and < returns > the  decisions  access levelsto the requestor (application). 
+doc#300509	Making a small investment in research will < return > big  benefits  in the end. 
+doc#305265	I will < return > a  profit  on each one as I have done many times in the past. 
+doc#324878	This leads to yield reductions and a failure to < return > a  profit  above the cost of the irrigation. 
+doc#333820	After a five-week trial, a jury < returned > a  verdict  in favor of Immersion, finding all asserted patent claims to be valid and infringed and awarding Immersion $82 million in damages. 
+doc#333820	After a four-week trial, a jury < returned > a  verdict  in favor of ASML, finding all asserted claims of the patent invalid on multiple grounds. 
+doc#340661	He was James Kirkwood (55), 34 Robertson Crescent, Baillieston, and the jury < returned > a  verdict  that he was accidentally killed by falling into the sump, death being due to drowning. 
+doc#341538	Having experienced the ranch for the first time, I'm now looking forward to < returning > to  harvest  several animals: 1) Water Buffalo 2) Axis 3) Monster Russian Boar. 
+doc#345160	So, in the 3rd year of our example business, they < return > to  profit  and make £5,000. 
+doc#356386	That case went to trial in Federal District Court in Buffalo, New York and a jury < returned > a  verdict  in favor of our client in the amount of $325,000. 
+doc#375886	He said that, if the jury < returned > a  verdict  without recommending capital punishment, it meant that capital punishment in Alaska was a dead letter in the law. 
+doc#375886	After four hours they < returned > a  verdict  , finding Charles guilty of first degree murder. 
+doc#385641	After an eight-week trial, jurors deliberated for six days before < returning > a  verdict  . "The men, all Muslim immigrants (from) South Jersey or Philadelphia, face a maximum term of life ... 
+doc#386572	Because so few domestic terrorism cases actually go to trial — the specter of terror means juries almost always < return > guilty  verdicts  , so defendants usually take plea deals — the role of undercover FBI operatives in domestic terror cases rarely comes under scrutiny. 
+doc#399753	52. (1) The coroner shall forthwith after an inquest < return > the  verdict  or finding, with the evidence where the Crown Attorney or Chief Coroner has ordered it to be transcribed, to the Chief Coroner, and shall transmit a copy of the verdict and recommendations to the Crown Attorney. 
+doc#402435	Fixer uppers can < return > good  profits  , but be careful when calculating repair costs. 
+doc#402721	Reformers say juries, particularly those in mostly black Claiborne, Hinds Holmes and Jefferson counties, are < returning > outrageous  verdicts  that are driving up medical malpractice premiums and driving away business and industry. 
+doc#407778	Prune your keyword list down to target only the most important keywords – the ones that will < return > a  profit  . 
+doc#423657	While turnpikes seldom < returned > direct  profits  to investors, they did benefit many merchants and tavern keepers in the form of new trade. 
+doc#428034	“The cuts have been buried in the small print of the Budget and are extremely complicated – but it is crystal clear that some of the North West’s poorest families are now paying the price for the bankers recession, while the banks themselves are < returning > massive  profits  .” 
+doc#431228	The interests of business are narrow — < returning > a  profit  and increasing shareholder return. 
+doc#432717	Thus in its early years RTC < returned > huge  profits  to its investors - introducing new technologies and collaborating with competitors to fix prices.[4] The company repeatedly refused to raise wages, despite increased revenues, instead offering workers services such as company accommodation, shops and schools.[5] However by the 1920's labour struggles and political difficulties emerging from nationalist attempts to reclaim profits from the mines created difficulties for Rio Tinto. 
+doc#439513	The jury, which received the case Wednesday, < returned > its  verdict  yesterday morning, quickly dispensing with the government's long-running effort to hold Grace criminally responsible for high rates of lung disease in the mountain community of Libby. 
+doc#441005	Nevertheless, we cannot agree with the bank that the evidence is so weak that a reasonable jury could not < return > a  verdict  in taitts favor If you would like to receive more information about gifts of securities, e-mail ande abraha at aabraha@nas. 
+doc#444621	Gulf Air, in November, expected an operating loss of $500mn in 2009, and plans to < return > to  profits  by focusing on regional routes and reducing costs. 
+doc#454932	On July 31, 2009, the Tenenbaum jury < returned > its  verdict  that the defendant (a Boston University graduate student) should pay $675,000 in statutory damages to several different record labels for sharing copyrighted songs over the Internet on peer-to-peer networks. 
+doc#455397	While the App Store is the best method yet developed for delivering software to a cell phone, it does not appear that it is a great commercial success for many of its developers . The vast majority of the apps on the store are priced so cheaply (or free) that it is not likely that they will < return > a  profit  to their developers. 
+doc#463174	$10.121 Million A Cook County jury < returned > the  verdict  in favor of a 72 year-old grandmother rendered wheelchair-dependent after a car vs. truck accident. 
+doc#466614	After the war, Eastman reviewed war contracts and < returned >  profits  to the government. 
+doc#472321	The jury < returned > a  verdict  of “accidental death”. 
+doc#473323	In a legal victory for the U.S. Equal Employment Opportunity Commission (EEOC), an Arizona federal jury < returned > a  verdict  for punitive damages against High Speed Enterprise, Inc., a corporation that owns five Phoenix-area Subway fast-food restaurant franchises. 
+doc#476401	The law firm that represented the family was able to report after the trial the jury < returned > a  verdict  of $7,200,000 (including interest).As this case demonstrates sometimes doctors and nurses fail to respond with the immediacy corresponding to the risk that certain labor complications present. 
+doc#502683	Punishment to be proportionate to the offence . -- In all cases where the jury, on the trial of any slave or free person of color, shall < return > a  verdict  of guilty, the court shall pass the sentence of death on such slave or free person of color, agreeably to the requisitions and subject to the same restrictions as are required by the before-recited act, (9) or proceed to inflict such other punishment as in their judgement will be most proportionate to the offence, and best promote the object of the law, and operate as a preventive for [of] like offences in future. 
+doc#506463	“This is a very rare opportunity for us to test the free market for solid waste disposal service that could < return > greater  benefits  to the city,” said Miramar public works director Thomas Good. 
+doc#529424	A Fairfax County Circuit Court jury has < returned >  verdicts  totaling almost $700,000 for a woman who contended that she had been scammed by a disbarred lawyer who was operating fraudulent mortgage modification and debt counseling businesses. 
+doc#538473	The case is concerned with whether such alleged misconduct constitutes just cause for the dismissal of a deliberating juror under Rule 23 (b) of the Federal Rules of Criminal Procedure so that a jury of eleven persons may continue to deliberate and < return > a  verdict  ; and what evidentiary standard must be met to support a dismissal on this ground. 
+doc#546975	A large company like Verizon likely has to justify any expansion of its network to its investors and ensure them that the venture will < return > a  profit  relatively quickly. 
+doc#548647	Email me some sort of physical description and additionally pic a sugar daddy nd For certain i will < return > the  benefit  . 
+doc#550827	The Jury, amongst whom were Dr. Gavin Russell and Dr. Norman Bethune [1] , < returned > a  verdict  of —Died from Apoplexy. 
+doc#551692	Any organization - public, private, or non-profit - must know whether it is accruing enough resources or < returning > enough  profit  to assure that it will be around to carry out its mission. 
+doc#563338	As a result, 55 hectares of the community arable lands < returned > crops that fed the community. 
+doc#569823	Britain’s Prime Minister of the day, Tony Blair, should also be held accountable for the fact that the jury at the official inquest was not allowed to < return > a  verdict  of ‘unlawful killing’ in this disturbing case. 
+doc#572294	The Court overturned Filipovic's conviction for espionage and the dissemination of false information, < returning > the  verdict  to the Nis Military Court for reconsideration. 
+doc#585437	The jury < returned > a  verdict  for the defendant after hearing evidence that both drivers had been drinking and that the plaintiff driver had been speeding. 
+doc#585437	Once the jury < returns > its  verdict  in this or a similar form, the trial court should then calculate the dollar amount of the damages recoverable by each claimant. 
+doc#591744	They may identify with the victims, or they may, consciously or unconsciously, seek to < return > a  verdict  that conforms to community sentiment. 
+doc#591744	Criminal syndicates, for instance, may try to intimidate juries into < returning > a  verdict  of not guilty, and public outrage often accompanies particularly heinous crimes. 
+doc#617301	The jury < returned > a  verdict  for plaintiff for the agreed value of the automobile, $800.00, and detention damages of $59.73, and further awarded punitive damages to the extent of $2500.00, which was reduced to $1000 on appeal. 
+doc#620913	The jury deliberated nearly three hours beginning late morning and < returned > its  verdict  in Guilford Superior Court at 4:25 p.m. Friday before Judge William Wood Jr. 
+doc#624603	While TARP has < returned > a  profit  of about $15 billion, the true results of the government’s various emergency tactics in response to the financial crisis won’t be known for a few more years. 
+doc#638343	He was tried, but the jury < returned > a  verdict  of not guilty and the judge had to discharge him. 
+doc#14135	c) For the recursive case(s): if all recursive  calls   <return > the correct value, then the final value returned by the function is the correct value. 
+doc#18613	This function is a variant of the arch specific get_call_info () function, it should < return >  calling  convention information for a signature. 
+doc#22376	The gethostbyname() and getaddrinfo()  calls   <return > a list of addresses. 
+doc#28031	You could asking: â€œwait, why the â€˜newâ€™ create an instance and the static  call   <return > an instance too?â€ 
+

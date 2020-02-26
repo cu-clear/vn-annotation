@@ -1,0 +1,88 @@
+doc#3182	To install, on *IX systems, < run > the  program  installMercator, on Windows double click on the winstall.tcl program. 
+doc#3323	<Run > the  program  a few times and convince yourself that it works. 
+doc#3323	Now < run > the  program 
+doc#5080	back to top Step 5 (optional): < Running > Japanese  Programs  on Vista and Windows 7 After completing step 4 you will still be in the "Regional and Language" window. 
+doc#5513	This retrieves information on the interpreter and operating system that's < running > the  program  . 
+doc#5848	Programmers can maintain accounts on distant, powerful computers, < run >  programs  there or write their own. 
+doc#6665	You are either < running >  programs  or moving files around. 
+doc#6884	Also keep in mind that video editing can task your computer, so you may need to upgrade your computer to < run > the  program  you want and you will need sufficient memory to work with video files. 
+doc#7645	It uses a technique for < running >  programs  from .maildelivery that's good to know. 
+doc#7645	A handler can read your system mailbox file directly, usually with inc . I think it's easier to do that, splitting your messages into a folder -- then have my handler < run > MH  programs  like scan and pick to handle the messages. 
+doc#8102	One way is to < run > that  program  in a Compatibility Mode. 
+doc#8102	Another solution is to download the free Microsoft program, Virtual PC, and install whatever Microsoft operating system your program needs and then < run > your  program  there. 
+doc#8313	When we compile and < run > this  program  , if we type in 
+doc#9302	Rhinoceros Version 2.0 . The review package included a comprehensive, 500 page user guide (for version 1.0 according to the cover), a Version 2.0 upgrade guide and last of all a CD. 20 minutes after the DHL guy left me on the doorstep I was < running > the  program  . 
+doc#13247	The image repository/distribution: This component comprises a single server that < runs > virtual  machines  managed by the Quattor system. 
+doc#25459	You'll save money by < running > your  dishwasher  after 7 p.m., during off-peak hours. 
+doc#26702	Always < run > washing  machines  and dishwashers with a full load and on the economy setting 4. 
+doc#30129	This would be a good short story plot: a frightened suburban couple, after viewing the sumptuous model apartment, buy a condo in the fenced community, only to find they can't leave, and must spend the rest of their lives < running > knitting  machines  . 
+doc#30799	We tested both the software's on two parallel < running >  machines  using windows OS. 
+doc#45839	I teach computer animation students, who I wish would understand that their technical expertise isn't worth a bag of sawdust if all they know how to do is < run > the  machines  . 
+doc#62344	Please wash pots, pans, and dishes (or < run >  dishwasher  ). 
+doc#85988	If you don't have CoolBackup, you can download it here . CoolBackup will allow you to < run > scheduled  backups  from your computer to your FilesAnywhere account or even sync between the two in real time. 
+doc#94053	Note: It is best to < run > the  dishwasher  for a short time about once a week to keep the motor seals working properly. 
+doc#94053	As a preventative measure to sticking seals in hard water areas it is recommended that you put 2 oz. of citric acid (wd35x151) in your soap cup and < run >  dishwasher  through a normal wash cycle if you are not going to use the dishwasher for an extended period of time. 
+doc#95345	<Run > the  dishwasher  and clothes washer only when you have a full load, and if available, use the energy-saving setting. 
+doc#101958	Start by taking shorter showers and/or installing a low-flow shower head; < running > the  dishwasher  and clothes washer only with full loads; using a water filter and reusable water bottles instead of buying bottled water. 
+doc#113694	It is extremely important to < run > a  machine  with its mandated machine guard in place. 
+doc#114720	Ibm pc or compatible < running >  windows  98/me/2000/xp/nt or later, cd-rom drive. 
+doc#115979	If you're using a stand mixer, you can also < run > the  machine  on the lowest speed, scrap down the sides every now and then to make sure all the mixtures are well combined. 
+doc#123161	This can take many forms - whether it's dominating a conversation or < running > a  machine  or commanding a piece of ground or a classroom or a man's own emotions and his body - it doesn't really matter so long as he is able to create and sustain the impression that he is the sort of man who is always in control. 
+doc#127264	I am < running >  windows  xp professional. 
+doc#128987	Use Wine . Wine is a Free emulator, which allows you to < run >  windows  binaries. 
+doc#129560	The SQL Server Maintenance Solution comprises scripts for < running >  backups  , integrity checks, and index and statistics maintenance on all editions of Microsoft SQL Server 2005, SQL Server 2008, SQL Server 2008 R2, and SQL Server 2012. 
+doc#129560	The answer is to determine, before you < run > the  backup  , whether a differential or transaction log backup can be performed. 
+doc#140049	I < run > the  dishwasher  frequently and keep it empty so that every dirty tumbler and utensil has an immediate home that is not the sink. 
+doc#141458	Online backups involve < running > a  backup  process simultaneously on he server, which is to be backed up. 
+doc#145266	The reason for not doing a demo was, that I do all my rails development on linux, my laptop, a five year old toshiba sattelite < runs >  windows  , and does not have wi-fi. 
+doc#149292	Backup for Workgroups interacts with Exchange Server while it is < running > to  backup  the data without interrupting the flow of email through the Exchange Server. 
+doc#151893	If you just deleted your photos, or they got lost from accidentally formatting your card, just < run > the  backup  process. 
+doc#153267	What about while you are < running > the  machine  ? 
+doc#156482	More women feel they can do that work versus < running > large  machines  ," says Costa. 
+doc#165240	Each window may be regarded as a distinct display unit within which separate concurrent processes may be < run >. 
+doc#169923	If you want the fastest < running >  backups  and restores possible, then you need to use the fastest storage - internal SATA drives. 
+doc#169923	Go to each computer you want to backup and < run > the  Backup  for Workgroups Setup program (BFWSETUP.EXE). 
+doc#175163	So if your virtual machines are not < running >  windows  2008 and if you don't benefit of the special licensing offered by Microsoft for running several Windows version in a virtualized environment then people should look at the cost of Windows 2008 as the cost of Microsoft Windows Hyper-V. Anyway, if your guest are not Windows then the cost of windows 2008 is obviously only for the hypervisor which does not seems to us being free!!!! 
+doc#175163	VMware VCB Is a great backup advantage as you can with it take live backup (image) of < running > virtual  machines  without affecting the performance of the host neither the virtual machines performance, where with MS Hyper-V that still seems to depend on the host capabilities using the Volume Shadow Copy Services (VSS) to enable you to take Live Backups of running virtual machines in terms of snapshots, but still affect the Hyper-V Host performance while the backup is running. 
+doc#175163	VMware VCB Is a great backup advantage as you can with it take live backup (image) of running virtual machines without affecting the performance of the host neither the virtual machines performance, where with MS Hyper-V that still seems to depend on the host capabilities using the Volume Shadow Copy Services (VSS) to enable you to take Live Backups of < running > virtual  machines  in terms of snapshots, but still affect the Hyper-V Host performance while the backup is running. 
+doc#178200	<Running > the  backup  manualy. 
+doc#179086	To clean brass with stainless media, start with five pounds of small stainless pins sold by StainlessTumblingMedia.com . Place these along with a gallon of water, a little liquid cleaner, and two pounds of cartridge brass in a rotary tumbler, and < run > the  machine  for one to four hours. 
+doc#181453	Solar energy, just like many other sources of power, can be used to < run >  machines  and industries. 
+doc#182263	That's all for now, please make sure you < run > your  backups  just in case. 
+doc#182439	Pour a gallon of vinegar in the bottom, let set for an hour or so, then < run > the  washer  through a full cycle. 
+doc#182439	Add a half-cup of powder and < run > the  dishwasher  . 
+doc#183020	Laptop repairs new mother board or system board, new power unit, new dc socket/power jack new screen, windows reinstalled keyboards replaced USB slots replaced hard disks replaced. there has been no limit to the repairs i have done over the year. starting in early february are will also be repairing ipads, ipods, smart phones, mobile phones, consoles kindles netbooks, tablets basically anything that < runs >  windows  or android or apple i will be able to fix it. and the charge is the same on anything if you want to drop your device off me please say at the time of purchase. other payment methods are available. 
+doc#196757	People that Windows Vista or 7 and never < run >  windows  update, install a third party browser, or use a non microsoft program for any of their tasks bother me. 
+doc#196757	My friend that < ran >  windows  2000 until forced to do otherwise to use the latest version of DirectX does not. 
+br	Apple Unveils New iMac with Intel Core Duo Processor < Running > Mac  OS  X on the new Intel Core Duo processor, the new iMac delivers performance that is up to twice that of its predecessor. 
+br	To view files which use the MPEG-4 H.264 codec you need QuickTime Player 7, or an alternative such as MPlayer or VLC . You may experience problems watching Windows Media Player files on an Apple Mac < running >  OS  9 or earlier. 
+br	Now, with Windows in place, you've essentially got a PC; it just so happens it can < run > Mac  OS  X as well. 
+br	It infects telephones < running > Symbian  OS  . So far, Cabir does not seem to have caused any security incidents. 
+br	Problem occurs on some Macs < running > Mac  OS  9 . check the 'number of colours' setting in the Monitor Control Panel if it is set to millions of colours, set it to thousands restart SciFinder Scholar if that does not solve the problem set monitor to 256 colours Substructure search results with 'incorrect' bonding retrieved : In addition to 'correct' answers (with bond values as specified) you may retrieve apparently 'incorrect' compounds (with correct atoms but different bond values). 
+br	(r) Related stories Patch posted to < run > Mac  OS  X 10.4.4 on 'generic PC' (15 February 2006) Apple posts Mac OS X 10.4.5 update (15 February 2006) French cops ditch IE (6 February 2006) Firefox gains ground on IE (3 November 2005) Firefox loses momentum (30 September 2005) Nokia to build phone browser from Apple tech (13 June 2005) Safari goes community - again (8 June 2005) Microsoft gives IE for Mac the boot (15 June 2003) Microsoft deploying work-to-rule for Mac browser? 
+br	<Running > Palm  OS  5.4, you'll find that the Treo is easy to manage and use. 
+br	If you are < running > Mac  OS  9.x, or OS X 10.1 or later G3 or G4 processor 1 GB of free hard drive space 256 MB RAM CD or DVD drive You will not be able to have access to your H:/ drive as there is no Novell Client for the Mac OS. 
+br	Adobe Reader is compatible with Macs < running >  OS  7.5.3 or above. 
+br	' However, < running > Mac  OS  X on a significantly cheaper PC remains an elusive dream, because Apple 'will not allow Mac OS X to be run on anything other than an Apple Mac', said the company's senior vice president Phil Schiller. 
+br	Finally, for those who want to play this the other way around and < run >  OS  X on a PC, there's the OSx86 project . Posted @ 22:14 ( Permanent link ) View/add comments | Backlinks | E-mail this post to someone April 26, 2006 On this day: Why webstats are so interesting I've been writing this blog for a couple of years now. 
+br	Adding an 8MB upgrade is almost essential for < running > Mac  OS  on a Pippin. 
+br	<Running > Mac  OS  Pippin will not run systems older than Pippin System 7.5.2. 
+br	Once < running > Mac  OS  , the Pippin largely behaves like a normal Mac and runs many popular Mac applications and utilities. 
+br	You can only use one of these with a modern Mac < running > Mac  OS  8.5 or higher or with a modern PC (Windows 98 is generally the lowest supported operating system). 
+br	Acrobat Reader for Palm OS and Pocket PCs Lets you view Adobe Portable Document Format (PDF) files on handheld devices < running > Palm  OS  and Pocket PCs. 
+br	As a product which started life as < running > on  OS  /2 as SNA Server, it may not be the most exciting offering in the Windows Server System, but it is functional, and organisations still buy it! 
+br	PearPC - < Running >  OS  X for the first time Filed By: Robert Moir PearPC - Running OS X for the first time Success! 
+br	PearPC - Running OS X for the first time Filed By: Robert Moir PearPC - < Running >  OS  X for the first time Success! 
+br	Trillian is an old PII 450, Arthur is a beige PowerMac G3 < running >  OS  X (very nice) and Ford is an older PowerMac. 
+br	To prevent any system conflicts or capture interruptions < run >  OS  base extensions plus any other required FireWire extensions. 
+br	Above all else, you must be < running >  OS  8.6 or better. 
+br	Glad it's working OK, I have had a look and so far the only oddity I have found is that the Info window from the Task Manager reports that you are < running > RISC  OS  Select, but of course it's still only RISC OS 4. 
+br	The C03U works seamlessly on any computer < running > Mac  OS  X or Windows XP, and with most DAW software programs without having to install any extra software or drivers. 
+br	If you're < running > Mac  OS  , you're looking at Lucida Grande :) Scott Cranfill Fri 8th Jul 2005 at 4:37 am Thanks Scott, mystery solved. 
+br	Click here to order Palm TE Sony Clié PEG-NX73V £170 < Running > Palm  OS  5 on an Intel PXA263 processor, running at 200MHz, the NX73V has 16 MB of RAM and a camera that supports up to 640x480 resolution. 
+br	For Macs < running >  OS  X (10.2 and above): Insert a blank CD-R or CD-RW disk If a window pops up stating: 'You inserted a blank CD. 
+br	Safari is sadly only available if you're < running >  OS  10.2, so I'll have to upgrade at some point. 
+br	Search Maestro is free, it < runs > on  OS  2 (Warp 3 or Warp 4), and has been written by Leo Galambos . The secondary Search Engine is SWISH and it only indexes SOMIS. 
+br	Compared to the same iMac Core Duo system < running > Mac  OS  X, the system showed a large but not unexpected jump in performance with Photoshop. 
+br	If you have an Apple computer < running >  OS  X, you should run the Software Update tool once or twice each month. 
+

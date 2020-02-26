@@ -1,0 +1,17 @@
+word/multimodal_caption-1.tree.word 124 6 float-v modes_of_being_with_motion-47.3
+word/fivecaption_dev.tree.word 76 2 float-v roll-51.3.1
+word/multimodal_caption-1.tree.word 139 2 float-v modes_of_being_with_motion-47.3
+word/fivecaption_test.tree.word 29 8 float-v None
+word/fivecaption_test.tree.word 27 3 float-v roll-51.3.1
+word/fivecaption_test.tree.word 28 4 float-v roll-51.3.1
+word/onecaption_test.tree.word 111 9 float-v run-51.3.2-2
+word/multimodal_caption-4.tree.word 237 9 float-v run-51.3.2-2
+word/multimodal_caption-1.tree.word 247 20 float-v modes_of_being_with_motion-47.3
+word/fivecaption_dev.tree.word 77 2 float-v roll-51.3.1
+word/multimodal_caption-5.tree.word 228 7 float-v None
+word/multimodal_caption-5.tree.word 407 2 float-v roll-51.3.1
+word/multimodal_caption-7.tree.word 157 3 float-v slide-11.2-1
+word/onecaption_train-2.tree.word 300 27 float-v None
+word/fivecaption_test.tree.word 25 20 float-v None
+word/fivecaption_train.tree.word 16 1 float-v modes_of_being_with_motion-47.3
+word/multimodal_caption-1.tree.word 176 18 float-v modes_of_being_with_motion-47.3

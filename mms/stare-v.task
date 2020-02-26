@@ -1,0 +1,7 @@
+word/fivecaption_test.tree.word 17 7 stare-v peer-30.3
+word/fivecaption_test.tree.word 71 5 stare-v peer-30.3
+word/onecaption_train-1.tree.word 412 2 stare-v peer-30.3
+word/onecaption_dev.tree.word 248 13 stare-v peer-30.3
+word/onecaption_dev.tree.word 263 10 stare-v peer-30.3
+word/onecaption_dev.tree.word 302 8 stare-v None
+word/onecaption_train-3.tree.word 59 2 stare-v None

@@ -1,0 +1,15 @@
+word/twocaption_train.tree.word 260 6 pour-v pour-9.5
+word/onecaption_train-1.tree.word 231 3 pour-v preparing-26.3-2
+word/onecaption_train-3.tree.word 43 6 pour-v preparing-26.3-2
+word/twocaption_train.tree.word 261 3 pour-v preparing-26.3-2
+word/multimodal_caption-4.tree.word 191 12 pour-v pour-9.5
+word/multimodal_caption-2.tree.word 298 3 pour-v pour-9.5
+word/multimodal_caption-1.tree.word 382 2 pour-v pour-9.5
+word/onecaption_test.tree.word 55 4 pour-v pour-9.5
+word/onecaption_test.tree.word 355 6 pour-v pour-9.5
+word/onecaption_dev.tree.word 184 2 pour-v pour-9.5
+word/onecaption_train-2.tree.word 310 6 pour-v pour-9.5
+word/onecaption_dev.tree.word 244 3 pour-v preparing-26.3-2
+word/onecaption_train-2.tree.word 260 2 pour-v pour-9.5
+word/multimodal_caption-1.tree.word 217 5 pour-v pour-9.5
+word/onecaption_train-1.tree.word 131 2 pour-v preparing-26.3-2

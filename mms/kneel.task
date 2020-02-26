@@ -1,0 +1,14 @@
+word/onecaption_dev.tree.word 84 10 kneel-v None
+word/multimodal_caption-5.tree.word 155 6 kneel-v assuming_position-50
+word/onecaption_train-2.tree.word 494 2 kneel-v assuming_position-50
+word/multimodal_caption-7.tree.word 77 12 kneel-v None
+word/twocaption_train.tree.word 326 7 kneel-v assuming_position-50
+word/multimodal_caption-7.tree.word 326 15 kneel-v assuming_position-50
+word/onecaption_train-1.tree.word 171 2 kneel-v assuming_position-50
+word/fill-ins_test.tree.word 22 4 kneel-v assuming_position-50
+word/multimodal_caption-7.tree.word 364 2 kneel-v None
+word/fivecaption_dev.tree.word 136 7 kneel-v spatial_configuration-47.6
+word/onecaption_train-1.tree.word 441 4 kneel-v assuming_position-50
+word/onecaption_train-1.tree.word 5 2 kneel-v assuming_position-50
+word/onecaption_train-3.tree.word 87 8 kneel-v assuming_position-50
+word/multimodal_caption-8.tree.word 358 2 kneel-v spatial_configuration-47.6

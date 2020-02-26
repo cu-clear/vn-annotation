@@ -1,0 +1,11 @@
+wb_sel/10/sel_1058.v02002_word 0 12 kill-v remove-10.1
+wb_sel/10/sel_1090.v02002_word 0 16 kill-v remove-10.1
+wb_sel/10/sel_1081.v02002_word 0 2 kill-v remove-10.1
+wb_eng/00/eng_0011.v01000_word 37 4 kill-v remove-10.1
+bc_cnn/00/cnn_0008.v00000_word 25 13 kill-v remove-10.1
+bc_cnn/00/cnn_0008.v00000_word 68 15 kill-v remove-10.1
+nw_p2.5_c2e/00/p2.5_c2e_0081.v01000_word 13 19 kill-v remove-10.1
+nw_wsj/24/wsj_2451.v00000_word 7 10 kill-v remove-10.1
+nw_wsj/24/wsj_2451.v00000_word 48 10 kill-v remove-10.1
+nw_wsj/15/wsj_1567.v00000_word 25 12 kill-v remove-10.1
+nw_wsj/13/wsj_1377.v00000_word 34 6 kill-v remove-10.1

@@ -1,0 +1,10 @@
+word/wsj_0207.parse 1 14 commission-v order-58.3-1
+word/wsj_0409.parse 75 9 commission-v order-58.3-1
+word/wsj_0984.parse 23 16 commission-v order-58.3-1
+word/wsj_0990.parse 66 4 commission-v order-58.3-1
+word/wsj_1574.parse 78 15 commission-v None
+word/wsj_1574.parse 79 43 commission-v None
+word/wsj_1582.parse 2 5 commission-v order-58.3-1
+word/wsj_1582.parse 4 10 commission-v order-58.3-1
+word/wsj_1686.parse 2 17 commission-v order-58.3-1
+word/wsj_2111.parse 46 31 commission-v order-58.3-1

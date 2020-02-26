@@ -1,0 +1,6 @@
+word/wsj_0101.parse 11 2 strip-v remove-10.1
+word/wsj_0112.parse 15 7 strip-v remove-10.1
+word/wsj_0273.parse 2 25 strip-v remove-10.1
+word/wsj_1159.parse 5 7 strip-v remove-10.1
+word/wsj_2151.parse 44 16 strip-v remove-10.1
+word/wsj_2343.parse 13 13 strip-v dress-41.1.1
